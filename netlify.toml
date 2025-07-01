@@ -9,3 +9,4 @@
 
 [context.production.environment]
   NODE_VERSION = "18"
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
