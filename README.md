@@ -1,6 +1,6 @@
 # 💼 Olatunji Ayokanmi Damilola
 
-**Frontend & Full-Stack Developer | React • Node.js • PostgreSQL**
+**Frontend, Backend & Full-Stack Developer | React • Node.js • PostgreSQL**
 
 ---
 
